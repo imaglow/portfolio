@@ -1,0 +1,56 @@
+.background{
+    background-image: url('../images/sea.jpg');
+}
+.headings{
+    color: rgb(66, 16, 112);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.subheading{
+  font-size: 5rem;
+  font-weight:300;
+  line-height: 4rem;
+}
+.youtube{
+  margin-left: 400px;
+  margin-bottom: 30px;
+}
+.headingsaboutme{
+  color: black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.backgroundres{
+  background-image: url('../images/resumepic.jpg') 
+}
+.backgroundhome{
+  background-image: url('../images/background.jpg');
+}
+.vsco{
+  margin-left: 550px;
+}
+a:hover{
+  text-decoration: underline;
+  color: blue;
+}
+.hpheading{
+  color: black;
+}
+.bold{
+  font-weight: bold;
+  text-decoration: underline;
+}
+.welcome{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 19px;
+  text-align: justify;
+}
+.bottom{
+  color: pink;
+}
+.alignright{
+  color: blueviolet;
+}
+.left{
+  margin-right: 600px;
+  color: blue;
+  text-decoration: none;
+}
